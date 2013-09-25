@@ -34,3 +34,4 @@ tstidl
 .ycm_extra_conf.pyc
 config.h
 config.h.in
+.run.sh
