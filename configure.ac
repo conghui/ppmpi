@@ -30,6 +30,7 @@ AC_CONFIG_FILES([Makefile
                  src/chap03/Makefile
                  src/chap04/Makefile
                  src/chap05/Makefile
+                 src/chap06/Makefile
                  solution/Makefile
                  solution/chap03/Makefile
                  solution/chap04/Makefile
